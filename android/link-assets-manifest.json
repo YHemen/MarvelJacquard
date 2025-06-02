@@ -1,0 +1,85 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Aovel Sans Rounded.ttf",
+      "sha1": "6b3bff7dd01a9d7682e97c253e315bd9943a7baf"
+    },
+    {
+      "path": "assets/fonts/Apercu Movistar.ttf",
+      "sha1": "5c253f76557f5832be57247d1e1803d7862eafd1"
+    },
+    {
+      "path": "assets/fonts/digital-7 (italic).ttf",
+      "sha1": "ba2f68370fa15d2b855d2bf6851d21b13b70dc87"
+    },
+    {
+      "path": "assets/fonts/digital-7 (mono italic).ttf",
+      "sha1": "b44189e1acc6432ffff0a905711354067d5d5f46"
+    },
+    {
+      "path": "assets/fonts/digital-7 (mono).ttf",
+      "sha1": "dabe381cb194d25d64f7f32d8925c1509b95ec08"
+    },
+    {
+      "path": "assets/fonts/digital-7.ttf",
+      "sha1": "7e1cf55ecbeaaa82465624ffb32b54e85453325c"
+    },
+    {
+      "path": "assets/fonts/EBGaramond-SemiBold.ttf",
+      "sha1": "e582f895a506a3554a45018e59e5adf20ef2ed24"
+    },
+    {
+      "path": "assets/fonts/GDDigit13LED.otf",
+      "sha1": "10d3506f76bcab98c3a3feac3e1b435ba4e0f18c"
+    },
+    {
+      "path": "assets/fonts/LibreBaskerville-Bold.ttf",
+      "sha1": "f8081cbeceb2e69fdffca2348b2c9e0933cd52b5"
+    },
+    {
+      "path": "assets/fonts/LibreBaskerville-Italic.ttf",
+      "sha1": "1c4a7eed5b5ffeed2818cc75c16825596d64ab67"
+    },
+    {
+      "path": "assets/fonts/LibreBaskerville-Regular.ttf",
+      "sha1": "ed706d27473a09536d94fed8fee4809fda713759"
+    },
+    {
+      "path": "assets/fonts/LobsterTwo-Regular.ttf",
+      "sha1": "1f9ffb9981ee8cc365b1ab1f1370421d62a36301"
+    },
+    {
+      "path": "assets/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "assets/fonts/Roboto Thin.ttf",
+      "sha1": "eb51d6042f676b736a552744a77dc352d92a08e1"
+    },
+    {
+      "path": "assets/fonts/Roboto-VariableFont_wdth,wght.ttf",
+      "sha1": "6bd9646ab22c0301ce3adbfe8707213a67900404"
+    },
+    {
+      "path": "assets/fonts/Technology Bold.ttf",
+      "sha1": "38bd291eda5e6fec6d2efbf3ccd258b6986ed69c"
+    },
+    {
+      "path": "assets/fonts/Technology.ttf",
+      "sha1": "36f00536068cbdb385f50467db5f1b5345f134ad"
+    }
+  ]
+}
